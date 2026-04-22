@@ -79,6 +79,10 @@ expense-tracker/
 ![Dashboard](dashboard.png)
 ![Login](login.png)
 <img width="1731" height="2098" alt="full website page" src="https://github.com/user-attachments/assets/752b8ad2-a78a-4c6a-b87c-7d0b99e044a1" />
+<img width="1731" height="2098" alt="full website page" src="https://github.com/user-attachments/assets/bb3d2fe3-a22f-4334-b0dc-babfa9a498af" />
+<img width="1731" height="849" alt="Login page" src="https://github.com/user-attachments/assets/5599a83b-cbe7-459c-9709-2c4f00b23c4e" />
+<img width="1731" height="977" alt="Register page" src="https://github.com/user-attachments/assets/c695feb6-fe43-491b-8c1b-63ee250c5d71" />
+
 
 
 ## 🚀 How to Run This Project
