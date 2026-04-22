@@ -75,6 +75,11 @@ expense-tracker/
 * Export filtered data as CSV
 
 ---
+## 📸 Screenshots
+![Dashboard](dashboard.png)
+![Login](login.png)
+<img width="1731" height="2098" alt="full website page" src="https://github.com/user-attachments/assets/752b8ad2-a78a-4c6a-b87c-7d0b99e044a1" />
+
 
 ## 🚀 How to Run This Project
 
