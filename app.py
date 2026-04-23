@@ -152,7 +152,7 @@ def index():
     if selected_category:
         day_q = day_q.filter(Expense.category == selected_category)
 
-    day_row = day_q.group_by(Expense.category).order_by(Expense.date).all()
+    day_row = day_q.group_by(Expense.date).order_by(Expense.date).all()
     day_labels = [d.isoformat() for d, _ in day_row]
     day_values = [round(float(s or 0),2) for _, s in day_row]
 
